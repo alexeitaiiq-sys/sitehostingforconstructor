@@ -31,7 +31,7 @@ export default function Home() {
       name: 'Сыворотка «Гиалурон+Пептиды»',
       desc: 'Глубокое увлажнение и лифтинг-эффект.',
       price: '2 490 ₽',
-      image: '/images/serum.jpg',
+      image: './images/serum.jpg',
       tag: 'Хит продаж',
     },
     {
@@ -39,14 +39,14 @@ export default function Home() {
       name: 'Крем-барьер «Церамид-Комплекс»',
       desc: 'Восстановление защитного слоя кожи.',
       price: '2 890 ₽',
-      image: '/images/cream.jpg',
+      image: './images/cream.jpg',
     },
     {
       id: 'tonic-1',
       name: 'Тоник-эксфолиант «PHA-Гликоль»',
       desc: 'Мягкое обновление без раздражения.',
       price: '1 690 ₽',
-      image: '/images/tonic.jpg',
+      image: './images/tonic.jpg',
     },
   ];
 

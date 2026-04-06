@@ -23,7 +23,7 @@ export default function Layout() {
             {/* Logo */}
             <Link to="/" className="flex items-center gap-2 group">
               <div className="relative flex items-center justify-center w-10 h-10 rounded-full bg-rose-50 text-rose-600 group-hover:bg-rose-100 transition-colors">
-                <img src="/images/logo.png" alt="СкинФарм" className="w-8 h-8 object-cover rounded-full mix-blend-multiply" />
+                <img src="./images/logo.png" alt="СкинФарм" className="w-8 h-8 object-cover rounded-full mix-blend-multiply" />
               </div>
               <span className="text-2xl font-semibold tracking-tight text-stone-900">СкинФарм</span>
             </Link>

@@ -15,7 +15,7 @@ export default function Catalog() {
       activeIngredients: '2% гиалуроновая кислота, Matrixyl 3000, ниацинамид',
       action: 'Глубокое увлажнение, разглаживание мимических морщин, укрепление матрикса',
       price: '2 490 ₽',
-      image: '/images/serum.jpg',
+      image: './images/serum.jpg',
       tag: 'Хит',
     },
     {
@@ -25,7 +25,7 @@ export default function Catalog() {
       activeIngredients: 'Церамиды NP/AP/EOP, сквалан, аллантоин',
       action: 'Восстановление липидного барьера, снятие покраснений, защита от внешних факторов',
       price: '2 890 ₽',
-      image: '/images/cream.jpg',
+      image: './images/cream.jpg',
       tag: 'Must have',
     },
     {
@@ -35,7 +35,7 @@ export default function Catalog() {
       activeIngredients: '5% глюконолактон, 2% молочная кислота, экстракт зелёного чая',
       action: 'Мягкое отшелушивание, выравнивание тона, антиоксидантная защита',
       price: '1 690 ₽',
-      image: '/images/tonic.jpg',
+      image: './images/tonic.jpg',
     },
     {
       id: 'body-1',
@@ -44,7 +44,7 @@ export default function Catalog() {
       activeIngredients: '5% D-пантенол, масло ши, мочевина',
       action: 'Устранение шелушений, глубокое питание кожи тела, успокаивающий эффект',
       price: '1 890 ₽',
-      image: '/images/cream.jpg',
+      image: './images/cream.jpg',
       tag: 'Новинка',
     },
   ];
